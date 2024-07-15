@@ -1,0 +1,15 @@
+.para {
+    transition: 0.2s ease-in-out;
+}
+
+.para:hover {
+    font-size: 20px;
+}
+
+.card-hover {
+    transition: 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+    box-shadow: 3px 3px 0px white;
+}
